@@ -1340,6 +1340,23 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": {
+        "name": "Zekrom"
+      },
+      "hp": {
+        "hp": "89"
+      },
+      "sprites": {
+        "front": {
+          "frontImg": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiki.p-insurgence.com%2FZekrom_(Pok%25C3%25A9mon)&psig=AOvVaw2thc3VXA67CjjOTEjZH-84&ust=1611769540207000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiupMmTuu4CFQAAAAAdAAAAABAD"
+        },
+        "back": {
+          "backImg": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiki.p-insurgence.com%2FZekrom_(Pok%25C3%25A9mon)&psig=AOvVaw2thc3VXA67CjjOTEjZH-84&ust=1611769540207000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiupMmTuu4CFQAAAAAdAAAAABAD"
+        }
+      },
+      "id": 151
     }
   ]
 }
